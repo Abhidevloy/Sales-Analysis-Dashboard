@@ -1,6 +1,7 @@
 # FNP Sales Analysis Dashboard
 
-![FNP Sales Dashboard](./3rd_project.jpg)
+![FNP Sales Dashboard](https://github.com/Abhidevloy/Sales-Analysis-Dashboard/blob/main/3rd%20project.jpg?raw=true)
+
 
 
 ## 📊 Overview
